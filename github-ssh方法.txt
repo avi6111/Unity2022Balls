@@ -1,0 +1,22 @@
+clients.....
+https://git-scm.com/downloads/guis
+git 4 window org
+https://gitforwindows.org/
+
+ssh-操作参考-来源：
+https://www.cnblogs.com/qlqwjy/p/8574456.html
+
+
+ssh-操作-先设置user.name
+git config --global set user.name ="xxxx"
+
+ssh-操作-然后生成 rsa 2 keys
+
+
+ssh-操作-上传到git setting ssh key & ##
+
+
+ssh-操作-最后正常使用 git@github:xxxxx@163.com(ssh)
+
+
+
